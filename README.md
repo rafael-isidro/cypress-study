@@ -17,14 +17,10 @@ Antes de começar, certifique-se de que você tem o Node.js e o npm instalados.
 1. Clone o repositório:
 
    ```bash
-   git clone git@github.com:rafael-isidro/vs14-qa.git
+   git clone https://github.com/rafael-isidro/cypress-study.git
    ```
 
 2. Navegue para o diretório do projeto:
-
-   ```bash
-   cd 04-QA/cypress/task03
-   ```
 
 3. Instale as dependências:
 
